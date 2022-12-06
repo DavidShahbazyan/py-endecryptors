@@ -1,2 +1,2 @@
 # py-endecryptors
-Random Encryptor/Decryptor scripts written in Python
+Various Encryptor/Decryptor scripts written in Python
